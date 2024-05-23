@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Cricket Live Score",
+    "description": "Shows the Score Board live cricket matches and match fixtures.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+    }
+  }
